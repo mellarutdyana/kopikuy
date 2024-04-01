@@ -1,0 +1,65 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://assets.klikindomaret.com/products/20022431/20022431_1.jpg",
+            "nama": "Redbull Energy Drink",
+            "size": "250 ml",
+            "harga": "24.800",
+            "link": "https://www.klikindomaret.com/product/energy-drink-5"
+        },
+        {
+            "foto": "https://assets.klikindomaret.com/products/20108973/20108973_1.jpg",
+            "nama": "Yogurt",
+            "size": "120 Gram",
+            "harga": "8.200",
+            "link": "https://www.klikindomaret.com/product/yoghurt-squeeze-3"
+        },
+        {
+            "foto": "https://assets.klikindomaret.com/share/20115549_1.jpg",
+            "nama": "Fibe Mini",
+            "size": "100 ml",
+            "harga": "10.900",
+            "link": "https://www.klikindomaret.com/product/minuman-kaya-serat"
+        }
+
+    ]
+}
